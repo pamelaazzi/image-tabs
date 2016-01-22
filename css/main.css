@@ -27,11 +27,12 @@ body {
 }
 
 .panel:target {
-  
+  display: block;
 }
 
 .circle {
   text-align: center;
+  width: 100%;
 }
 
 a {
